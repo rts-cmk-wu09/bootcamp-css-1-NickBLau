@@ -7,5 +7,14 @@ img{
 }
 
 li:last-of-type {
+    font-family: Arial, Helvetica, sans-serif;
     color: blue;
+}
+
+h1{
+    font-family: 'Solitreo', Arial;
+}
+
+h2{
+    font-family: 'Shadows Into Light', cursive, Helvetica, sans-serif;
 }
