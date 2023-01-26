@@ -13,6 +13,7 @@ li:last-of-type {
 
 h1{
     font-family: 'Solitreo', Arial;
+    color: red;
 }
 
 h2{
@@ -22,3 +23,4 @@ h2{
 form{
     gap: 20px;
 }
+
