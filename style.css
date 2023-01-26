@@ -18,3 +18,7 @@ h1{
 h2{
     font-family: 'Shadows Into Light', cursive, Helvetica, sans-serif;
 }
+
+form{
+    gap: 20px;
+}
